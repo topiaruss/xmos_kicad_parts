@@ -1,15 +1,15 @@
-Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Tue 05 Apr 2011 10:39:11 AM PDT
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Tue 05 Apr 2011 01:18:05 PM PDT
 
 BeginCmp
-TimeStamp = /4D9B5367;
+TimeStamp = /4D9B782B;
 Reference = U1;
 ValeurCmp = XS1-L1-128;
 IdModule  = XMOS-TQFP-128-4.8mm-Pad;
 EndCmp
 
 BeginCmp
-TimeStamp = /4D9B518F;
-Reference = U3;
+TimeStamp = /4D9B771E;
+Reference = U2;
 ValeurCmp = XS1-L1-64;
 IdModule  = XMOS-TQFP-64-5.2mm-PAD;
 EndCmp
