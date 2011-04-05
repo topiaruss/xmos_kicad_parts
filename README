@@ -1,0 +1,9 @@
+Contains schematics and footprints for the XMOS XS1-L1 128 and 64 pin packages.
+
+Footprints were inherited from other projects, and modified to include the thermal pads.
+
+Schematics are fragmented in the same way as some XMOS reference designs.
+
+If you prefer a different schematic layout, it is possible to derive new versions that share the same footprint.
+
+If you find any issues, please report to the creator and maintainer: Russ Ferriday, russf@topia.com
